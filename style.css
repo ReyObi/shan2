@@ -54,5 +54,19 @@ pre{
     padding-top: 0%;
 }
 
+.list-group-item-shan {
+    color: #665a83;
+    background-color: #eeeaf8; }
 
+.list-group-item-shan.list-group-item-action.active {
+    color: #fff;
+    background-color: #665a83;
+    border-color: #665a83; }
 
+    li{
+        font-weight: bold ;
+    }
+
+    p{
+        font-weight: bold;
+    }
